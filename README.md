@@ -31,6 +31,6 @@ public class Main {
      }
     
    }
-   privat static void tampilkanData() throws IOException{
+   private static void tampilkanData() throws IOException{
    }
 }
