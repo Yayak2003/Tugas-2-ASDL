@@ -1,5 +1,14 @@
-# Tugas-2-ASDL
+# Tugas 2 ASDL #
+
 Kelompok 4 - TI Reg A
+Anggota :
+Nur Su’udiyah (09021182126020)
+Agustian (09021182126022)
+Agus Tusilawati (09021182126024)
+Ana Safira (09021182126025)
+Tri Yogta Rahmadhan (09021182126026)
+Affandi Arrizal (09021182126027)
+
 
 -# TUGAS 2A #-
 
